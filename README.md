@@ -6,4 +6,4 @@ It will be made in Unreal Engine 5 with proper ray-tracing and realistic animati
 The game will be available on: PC, iMacs (optimized because of performance), 
 XBOX Series X/S, XBOX One (optimized because of performance), PS5 and PS4 (optimized)
 
-                                        cya
+                            cya, more updates later!
